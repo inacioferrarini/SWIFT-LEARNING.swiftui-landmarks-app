@@ -15,3 +15,5 @@ I am not the author of the code nor the tutorial.
 * (Part 1: Creating and combining views - https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)[https://developer.apple.com/tutorials/swiftui/creating-and-combining-views]
 
 * (Part 2: Building lists and navigation - https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)[https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation]
+
+* (Part 3: Handling user input - https://developer.apple.com/tutorials/swiftui/handling-user-input)[https://developer.apple.com/tutorials/swiftui/handling-user-input]

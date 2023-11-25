@@ -1,3 +1,10 @@
+/*
+See the LICENSE.txt file for this sample’s licensing information.
+
+Abstract:
+A view showing the list of landmarks.
+*/
+
 import SwiftUI
 
 struct ContentView: View {
@@ -8,5 +15,4 @@ struct ContentView: View {
 
 #Preview {
     ContentView()
-        .environment(ModelData())
 }
