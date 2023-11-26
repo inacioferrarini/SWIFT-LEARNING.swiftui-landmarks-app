@@ -113,7 +113,6 @@
 			children = (
 				3409A3562B1041F7008D5320 /* Views */,
 				3409A3572B104228008D5320 /* Model */,
-				3409A36C2B12FB18008D5320 /* Badges */,
 			);
 			path = Code;
 			sourceTree = "<group>";
@@ -157,6 +156,7 @@
 			isa = PBXGroup;
 			children = (
 				3409A3612B11807D008D5320 /* Landmarks */,
+				3409A36C2B12FB18008D5320 /* Badges */,
 				3409A3602B118060008D5320 /* Helpers */,
 			);
 			path = Views;
