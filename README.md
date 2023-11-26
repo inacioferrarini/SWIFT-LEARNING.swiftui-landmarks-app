@@ -17,3 +17,7 @@ I am not the author of the code nor the tutorial.
 * (Part 2: Building lists and navigation - https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)[https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation]
 
 * (Part 3: Handling user input - https://developer.apple.com/tutorials/swiftui/handling-user-input)[https://developer.apple.com/tutorials/swiftui/handling-user-input]
+
+## Drawing and Animation
+
+* (Part 4: Drawing paths and shapes - https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes)[https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes]
