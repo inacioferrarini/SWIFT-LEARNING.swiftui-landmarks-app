@@ -23,3 +23,7 @@ I am not the author of the code nor the tutorial.
 * (Part 4: Drawing paths and shapes - https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes)[https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes]
 
 * (Part 5: Animating views and transitions - https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)[https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions]
+
+## App Design and Layout
+
+* (Part 6: Composing complex interfaces - https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)[https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces]
