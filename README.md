@@ -27,3 +27,5 @@ I am not the author of the code nor the tutorial.
 ## App Design and Layout
 
 * (Part 6: Composing complex interfaces - https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)[https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces]
+
+* (Part 7: Working with UI controls - https://developer.apple.com/tutorials/swiftui/working-with-ui-controls)[https://developer.apple.com/tutorials/swiftui/working-with-ui-controls]
