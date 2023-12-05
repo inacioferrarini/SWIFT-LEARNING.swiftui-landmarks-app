@@ -29,3 +29,7 @@ I am not the author of the code nor the tutorial.
 * (Part 6: Composing complex interfaces - https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)[https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces]
 
 * (Part 7: Working with UI controls - https://developer.apple.com/tutorials/swiftui/working-with-ui-controls)[https://developer.apple.com/tutorials/swiftui/working-with-ui-controls]
+
+## Framework Integration
+
+* (Part 8: Interfacing with UIKit - https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)[https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit]
