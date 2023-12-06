@@ -33,3 +33,5 @@ I am not the author of the code nor the tutorial.
 ## Framework Integration
 
 * (Part 8: Interfacing with UIKit - https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)[https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit]
+
+* (Part 9: Creating a watchOS app - https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app)[https://developer.apple.com/tutorials/swiftui/creating-a-watchos-app]
